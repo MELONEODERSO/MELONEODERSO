@@ -8,8 +8,8 @@
 
 ## Über mich
 
-Hallo <img src="https://cdn.7tv.app/emote/60aeec1712d7701491f89cf5/4x.webp" width=20px>, <br>
-Ich bin Matthias aka. Meloneoderso! <br>
+Hallo <img src="https://cdn.7tv.app/emote/60aeec1712d7701491f89cf5/4x.webp" width=20px> <br>
+Ich bin Matthias aka. Meloneoderso! <img src="https://cdn.7tv.app/emote/62c0b1f49882dfa63c818ee9/4x.webp" width=20px> <br>
 <br>
 Ich bin Developer für den Streamer [Melvin501](https://twitch.tv/melvin501) und seinem Netzwerk: Melvin501.de <br>
 Komm gerne auf unseren Discord, falls du mehr hierüber erfahren möchtest! <br><br>
