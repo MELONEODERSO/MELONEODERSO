@@ -8,7 +8,7 @@
 
 ## Über mich
 
-Hallo 👋, <br>
+Hallo <img src="https://cdn.7tv.app/emote/60aeec1712d7701491f89cf5/4x.webp" width=20px>, <br>
 Ich bin Matthias aka. Meloneoderso! <br>
 <br>
 Ich bin Developer für den Streamer [Melvin501](https://twitch.tv/melvin501) und seinem Netzwerk: Melvin501.de <br>
