@@ -13,7 +13,7 @@ Ich bin Matthias aka. Meloneoderso! <img src="https://cdn.7tv.app/emote/62c0b1f4
 <br>
 Ich bin Developer für den Streamer [Melvin501](https://twitch.tv/melvin501) und seinem Netzwerk: Melvin501.de <br>
 Komm gerne auf unseren Discord, falls du mehr hierüber erfahren möchtest! <br><br>
-Mehr gibts hier leider nicht mehr zu sehen <img src="https://cdn.7tv.app/emote/60d431e38090e67e368eb5df/4x.webp" width=20px> <br>
+Das wars dann hier auch schon <img src="https://cdn.7tv.app/emote/62d042ce3f941958df42f304/4x.webp" width=20px> <br>
 
 
 [github-shield]: https://img.shields.io/badge/GitHub-MELONEODERSO-white?style=for-the-badge
